@@ -28,7 +28,3 @@ This project predicts the likelihood of heart disease using machine learning mod
 ## Acknowledgment
 
 The dataset used in this project is sourced from Kaggle. You can access the dataset [here](https://www.kaggle.com/datasets/venkatkarthick/heartcsv).
-
-## License
-
-This project is licensed under the [MIT License](./LICENSE).
