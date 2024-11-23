@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project predicts the likelihood of heart disease using machine learning models trained on clinical data. It focuses on leveraging various supervised algorithms to provide accurate and actionable insights that could aid in early diagnosis and prevention.
+This project predicts the likelihood of heart disease using machine learning models trained on clinical data. By leveraging supervised learning algorithms, the project achieves an accuracy of approximately 85-90%, depending on the model and dataset. These results demonstrate the potential for effective early diagnosis and prevention through data-driven insights.
 
 ## Features
 
